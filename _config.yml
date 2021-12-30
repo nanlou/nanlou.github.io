@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Nanlou
+description: nanlou's blog
 
-url: https://long-haul.netlify.app
+url: https://nanlou.github.io/
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -11,7 +11,7 @@ permalink: blog/:title/
 markdown: kramdown
 highlighter: rouge
 plugins: [jekyll-paginate]
-paginate: 5
+paginate: 10
 
 navigation:
   - title: Home
@@ -22,13 +22,13 @@ navigation:
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
-  linkedin: brianmaierjr
+  github: nanlou
+  #twitter: brianmaierjr
+  #facebook: brianmaierjr
+  email: zengw317@gmail.com
+  #linkedin: brianmaierjr
 
 google_analytics: "UA-58263416-1"
 
 disqus:
-    shortname: brianmaierjr
+    shortname: nanlou
